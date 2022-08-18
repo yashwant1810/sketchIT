@@ -1,4 +1,4 @@
-# sketchIT-turtle module
+# sketchIT-turtle module + python 3.10
         KEY              :               WHAT IT DOES
          W               :         move forwards by 10 units
          S               :         move backwards by 10 units
